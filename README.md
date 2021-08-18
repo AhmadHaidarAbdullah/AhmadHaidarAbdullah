@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-<!--
-**AhmadHaidarAbdullah/AhmadHaidarAbdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm a student-college's of Informatics Engineering that interested in You, :)
 
-Here are some ideas to get you started:
+## Social
+[![Gmail](https://img.shields.io/badge/EMail-FFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ahmadhaidar2872@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/8a9d1r)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-haidar-18320b212)
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +17,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+
