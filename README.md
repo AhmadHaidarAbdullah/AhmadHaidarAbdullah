@@ -14,11 +14,11 @@ I'm a student-college of Informatics Engineering that interested in You, :)
 ![PHP](https://img.shields.io/badge/php-7952B3?style=for-the-badge&logo=php&logoColor=white) -->
 
 
-## Social
+<!-- ## Social
 [![Gmail](https://img.shields.io/badge/GMail-FFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ahmadhaidar2872@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/8a9d1r)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-haidar-18320b212)
-
+ -->
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
