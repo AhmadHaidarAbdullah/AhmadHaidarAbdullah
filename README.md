@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About me
-I'm a student-college of Informatics Engineering that interested in You, :)
+I'm a student-college of Informatics Engineering, Nice to see you :)
 
 ## 
 
